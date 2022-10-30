@@ -1,5 +1,5 @@
 # Pacman-Game
-As part of the course "OOP with C++" in computer science degree at Academic Tel-Aviv Yaffo, 
+As part of the course "OOP with C++" in computer science degree at The Academic College of Tel-Aviv Yaffo, 
 We developed the popular game "Pac-Man" for the console application, while using OOP, files and etc.
 
 ## Game menu
@@ -11,10 +11,10 @@ Choose one of the following options:
 
 ## Game mode
 Choose one of the following modes:
-* **Simple mode** - Play the game normally without recording
-* **Save mode** - Play the game while recording it
-* **Load mode** - Run a record for a game without playing
-* **Silent mode** - Run a record of a game without playing and without seeing the record (only for testing)
+* **Simple mode** - play the game normally without recording
+* **Save mode** - play the game while recording it
+* **Load mode** - run a record for a game without playing
+* **Silent mode** - run a record of a game without playing and without seeing the record (only for testing)
 
 ## Running steps
 Open CMD and navigate to pacman's folder and run:
