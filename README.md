@@ -1,6 +1,6 @@
 # Pacman-Game
 As part of the course "OOP with C++" in computer science degree at Academic Tel-Aviv Yaffo, 
-We implement the popular game "Pac-Man" to the console application, while using OOP, files and etc.
+We developed the popular game "Pac-Man" for the console application, while using OOP, files and etc.
 
 ## Menu game
 Choose one of the following options:
