@@ -2,7 +2,7 @@
 As part of the course "OOP with C++" in computer science degree at Academic Tel-Aviv Yaffo, 
 We developed the popular game "Pac-Man" for the console application, while using OOP, files and etc.
 
-## Menu game
+## Game menu
 Choose one of the following options:
 * **start a new game** - you can play with all existing screens and after that, you can choose the level of the game. 
 * **load your screen** - you can choose specific screen to play in and after that, you can choose the level of the game. 
