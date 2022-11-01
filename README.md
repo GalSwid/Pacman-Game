@@ -1,6 +1,7 @@
-# Pacman-Game
+# Pacman-Game  
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">
 As part of the course "OOP with C++" in computer science degree at The Academic College of Tel-Aviv Yaffo, 
-We developed the popular game "Pac-Man" for the console application, while using OOP, files and etc.
+We developed the popular game "Pac-Man" for the console application, while using OOP concepts, files and etc.
 
 ## Game menu
 Choose one of the following options:
